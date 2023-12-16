@@ -1,0 +1,35 @@
+           Project Dar-E-Arqam Website
+
+ 
+Basic Requirements 
+
+ 
+React Compoments :
+
+React router component – NavBar
+React router component - Banner
+React router component - about 
+React router component - gallery 
+React router component – Footer
+React router component – contant us
+React router component – Join us
+ 
+Page :
+
+Index.html – home /main.pg
+Page Router Component -services.pg 
+Page Router Component -spayment / dnoate.pg
+Page Router Component -Admin.pg
+ 
+
+
+Technologies :
+
+react.js: NPM 9.2.0 ,Nodejs v18.13.0,react-router(NI)
+BootStrap CDN,Java 17,spring boot – maven,Either MySQL or MongoDB ,Docker,Linux ,AWS-EC2 
+
+Color :
+nav - color code #274375  
+
+
+Notes
